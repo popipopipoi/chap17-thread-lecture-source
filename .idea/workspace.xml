@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66aeb3f2-2137-4d28-8217-19617c95d934" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap17-thread-lecture-source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/thread/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/thread/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/thread/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section01/thread/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/daemonthread/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/section02/daemonthread/CountDown.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2T3LBXdImMQhHea87IgeM7YAS3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="66aeb3f2-2137-4d28-8217-19617c95d934" name="변경" comment="" />
+      <created>1690266682805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690266682805</updated>
+    </task>
+    <servers />
+  </component>
+</project>
